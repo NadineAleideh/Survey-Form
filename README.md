@@ -3,4 +3,4 @@
 ## I created an Event Feedback Survey for a technological company with full CSS styling from scratch:
 
 
-![Survey-Form Photo](./Survey-Form.png)
+![Survey-Form Photo](./survey.png)
